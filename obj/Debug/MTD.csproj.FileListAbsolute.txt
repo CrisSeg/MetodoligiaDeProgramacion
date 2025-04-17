@@ -1,0 +1,6 @@
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\MTD\obj\Debug\MTD.csprojResolveAssemblyReference.cache
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\MTD\bin\Debug\MTD.exe.config
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\MTD\bin\Debug\MTD.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\MTD\bin\Debug\MTD.pdb
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\MTD\obj\Debug\MTD.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\MTD\obj\Debug\MTD.pdb
